@@ -6,7 +6,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Start with GIT</title>
 </head>
-<b> Git stuff initialized ... </b>
+<b> Git stuff initialized ... 
+Changes to demonstrate webhooks and services 
+</b>
 <body>
 
 </body>
